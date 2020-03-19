@@ -5,6 +5,8 @@ npx create-react-app anekdoodtit2
 
 Tehtävän pohja kopioitu
 
+Koodausta ... valmis
+
 npm start
 
 
