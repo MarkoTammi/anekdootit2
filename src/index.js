@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom'
 
 
 
-// Component to display all buttons and eventlistener
+// Component to display all buttons and eventlisteners
 const Button = (props) => {
   const { handleClick, text} = props
   return (
@@ -65,6 +65,7 @@ const App = (props) => {
         } while (randomnbr === selected || randomnbr > anecdotes.length-1)
         return randomnbr
     }
+
 
     return (
         <div>
